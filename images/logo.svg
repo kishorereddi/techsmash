@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 50" fill="none">
+  <!-- Rounded square background -->
+  <rect x="0" y="3" width="44" height="44" rx="10" fill="url(#grad)"/>
+  
+  <!-- Bold centered T -->
+  <rect x="8" y="11" width="28" height="5" rx="2" fill="#fff"/>
+  <rect x="18" y="11" width="8" height="28" rx="2" fill="#fff"/>
+  
+  <!-- TechSmash text -->
+  <text x="54" y="33" font-family="'Poppins','Segoe UI',sans-serif" font-size="28" font-weight="700" fill="#1b4332">Tech<tspan fill="#52b788">Smash</tspan></text>
+  
+  <defs>
+    <linearGradient id="grad" x1="0" y1="3" x2="44" y2="47" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2d6a4f"/>
+      <stop offset="100%" stop-color="#52b788"/>
+    </linearGradient>
+  </defs>
+</svg>
