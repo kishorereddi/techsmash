@@ -2,13 +2,13 @@
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
-  --primary: #2d6a4f;
-  --primary-light: #40916c;
-  --primary-dark: #1b4332;
-  --accent: #52b788;
-  --dark: #1a1a2e;
-  --light: #f8f9fa;
-  --gray: #6c757d;
+  --primary: #0067b8;
+  --primary-light: #0078d4;
+  --primary-dark: #002050;
+  --accent: #0078d4;
+  --dark: #1b1b1b;
+  --light: #e8eef7;
+  --gray: #505050;
   --white: #ffffff;
   --font-heading: 'Poppins', sans-serif;
   --font-body: 'Inter', sans-serif;
